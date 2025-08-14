@@ -73,7 +73,7 @@ src/
 ### 2. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/forohub.git
+git clone https://github.com/Leo-Rodriguez-S/forohub
 cd forohub
 ```
 
