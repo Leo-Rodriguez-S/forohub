@@ -226,19 +226,14 @@ http://localhost:8080/swagger-ui.html
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## 👨‍💻 Autor
 
-Desarrollado como parte del Challenge Back End de Alura Latam.
+Desarrollado por Leonardo Rodríguez como parte del Challenge Back-End de Alura Latam.
 
 ## 📞 Soporte
 
 Si tienes problemas o preguntas, puedes:
-- Abrir un issue en GitHub
-- Contactar al equipo de Alura Latam
+- Contactarme
 
 ---
 
